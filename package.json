@@ -1,0 +1,27 @@
+{
+  "name": "breezy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.2",
+    "js-htmlencode": "^0.3.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
+    "xml2js-es6-promise": "^1.1.1"
+  },
+  "devDependencies": {
+    "cli-color": "^1.2.0",
+    "opn": "^4.0.2",
+    "portscanner": "^2.1.1"
+  },
+  "scripts": {
+    "postinstall": "bash ./.bin/npm-postinstall.sh",
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
