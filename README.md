@@ -1,4 +1,4 @@
-# Breezy <img src="https://rawgit.com/the0neWhoKnocks/breezy/master/public/imgs/icon-breezy-sml.svg" height="40" style="vertical-align: top;">
+# Breezy <img src="https://cdn.jsdelivr.net/gh/the0neWhoKnocks/breezy/public/imgs/icon-breezy-sml.svg" height="40" style="vertical-align: top;">
 
 A social network that puts a happy face on today's news.
 
